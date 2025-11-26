@@ -2,10 +2,6 @@
 
 Linux system installation and updates. Administration basics.
 
-The russian version of the task can be found in the repository.
-
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 ## Contents
 
 1. [Chapter I](#chapter-i)
@@ -32,46 +28,7 @@ The russian version of the task can be found in the repository.
 
 
 ## Chapter I
-
-![linux](misc/images/linux.png)
-
->Developer’s note: \
->For full immersion, you can play your favorite jazz song while reading the assignment.
-
-Planet Earth, Seb's Jazz Club, today.
-
-"Well, Sebastian, you didn't expect me to believe that you called me just to sit and relax, did you? You're not the type to write to an old comrade in the middle of the working week when you have nothing to say."
-
-"Nothing can ever be kept from you! I thought I'd get to the point, but since you're so sharp..."
-
-"Stop flattering me, I'm just wondering why we're here."
-
-"The thing is, I recently joined a development company that needed an administrator. But there is problem: they use Linux as their operating system."
-
-"And you, as a confident Windows user, want to understand the basics of Linux and also the administration?"
-
-"Exactly! As far as I remember, you're good at both."
-
-"Well, then, get your laptop! Obviously I haven't done this for a while, but I'll try to help. The main thing is to finish before the club closes, otherwise we'll have to continue tomorrow."
-
-\> *The song ends, the music slowly fades, they bring you the drinks you ordered.*
-
-\> *While Sebastian takes his laptop out and turns it on, you decide to share a little historical background.*
-
-
 ## Chapter II
-
-### Linux
-
-"The history of Linux dates back to 1991, when a Finnish graduate programmer named Linus Torvalds began working on his own operating system kernel.
-
-He put his work on a public server and it became a milestone in the history of Linux. First dozens, then hundreds and thousands of developers supported his project, and that's how a complete operating system was born.
-
-The first official version, Linux 1.0, was released in 1994. From the beginning to the present day, Linux has been distributed as free software under the GPL licence. This means that the source code of the operating system can be viewed by anyone - and not just viewed, but modified. The only condition is that the modified code must also be available to everyone and distributed under the GPL. This is important because it allows developers to use the code without worrying about copyright issues.
-
-Today, Linux is the most popular and widely used open source operating system. As an operating system, Linux is software that sits below other software on a computer, receiving requests from those programs and passing those requests on to the computer's hardware."
-
-\> *The waitress brings you the drinks you ordered, the musicians start playing again.*
 
 ### Administration
 
